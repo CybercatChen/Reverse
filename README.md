@@ -2,7 +2,4 @@
 
 ## Demo video
 
-The demo video for Reverse is available below.
-
-- [View the demo video](reverse_demo.mp4)
-- [Watch or download the original MP4](https://github.com/CybercatChen/Reverse/raw/refs/heads/main/reverse_demo.mp4)
+https://github.com/user-attachments/assets/dc31e494-9bfd-4a3e-be69-2f4367568d28
